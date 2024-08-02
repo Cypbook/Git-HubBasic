@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 About Time
 The Fault in our stars
 Forrest Gump
-=======
 Never Have I Ever
 Emily in Paris
 Riverdale
->>>>>>> series
